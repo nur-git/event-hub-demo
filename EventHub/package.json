@@ -1,0 +1,14 @@
+{
+  "name": "eventhub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "receiveEvent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nurehman",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/event-hubs": "^2.1.4"
+  }
+}

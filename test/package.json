@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "eventGrid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nurehman",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/arm-eventgrid": "^5.0.0",
+    "@azure/eventgrid": "^2.0.0",
+    "@azure/ms-rest-azure-js": "^2.0.1",
+    "azure-arm-eventgrid": "^3.1.0"
+  }
+}
